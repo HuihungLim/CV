@@ -8,6 +8,14 @@ main:
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2024 - Present
     notes: In Progress
+
+  - type: education
+    degreepath: Master # for type.education.
+    institution: Communication University of China
+    department: Institute for Communicatin Studies
+    advisors: Jane Doe, John Doe # for type.education.
+    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2021 - 2024
     
   - type: job
     title: Example Job # for type.employment.
