@@ -1,7 +1,7 @@
 main:
 
   - type: education
-    degreepath: PhD # for type.education.
+    degreepath: PhD in Media Arts and Science # for type.education.
     institution: Indiana University
     department: The Media School
     advisors: Jane Doe, John Doe # for type.education.
@@ -10,7 +10,7 @@ main:
     notes: In Progress
 
   - type: education
-    degreepath: Master # for type.education.
+    degreepath: Master in Communication (M.A.) # for type.education.
     institution: Communication University of China
     department: Institute for Communicatin Studies
     advisors: Jane Doe, John Doe # for type.education.
