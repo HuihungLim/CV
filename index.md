@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Huihong Lin is a PhD student at the Media School, Indiana University, USA
+This website is in process
 
 ## Research Interests
 
