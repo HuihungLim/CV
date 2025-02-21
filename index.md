@@ -11,6 +11,7 @@ Huihong Lin is a PhD student at the Media School, Indiana University, USA
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 - **Digital Health Humanities:** I do things.
+- **Media Psychophysiology, Media Multitasking, Media Effects, Information Processing**
 
 {% include_relative _includes/education.md %}
 
