@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Huihong Lin is a PhD student at the Media School, Indiana University, USA
 
 ## Research Interests
 
